@@ -10,8 +10,6 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      - href: awards.qmd
-        text: Awards
       - href: CV.pdf
         text: CV
 format:
