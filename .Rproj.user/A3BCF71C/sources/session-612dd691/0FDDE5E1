@@ -3,7 +3,7 @@
     "path": "~/mywebsite/research.qmd",
     "project_path": "research.qmd",
     "type": "quarto_markdown",
-    "hash": "3524721411",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1757193790757.0,
@@ -18,7 +18,7 @@
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "0,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "39:0"
+        "rmdVisualModeLocation": "347:0"
     },
     "folds": "",
     "lastKnownWriteTime": 1757201153,
