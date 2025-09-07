@@ -1,0 +1,23 @@
+---
+title: ""
+format: html
+---
+
+::: {style="display: flex; align-items: center; justify-content: space-between; width: 100%;"}
+::: {style="flex: 0 0 60%; padding-right: 40px;"}
+## Noormah Rizwan
+
+Welcome! I am an applied economist with research interests focusing on environmental, agricultural and behavioral economics.\
+I have over 6 years of experience in conducting empirical research on climate adaptation, water scarcity, and economic development that aims to address policy-relevant issues.
+
+I am a Ph.D. candidate in Agricultural, Food and Resource Economics at Michigan State University. My expected graduation is in May 2026.
+
+Previously, I have worked as a Research Analyst at the International Food Policy Research Institute. I have also interned at United Nations Economic and Social Commission for Asia Pacific.
+
+I have expertise in applied microeconometrics, spatial data analysis, and econometric modeling, including discrete choice and structural models. I also have significant experience in producing policy-relevant research, engaging stakeholders, and presenting findings to diverse audiences.
+
+[**Contact: noormah.riz\@gmail.com**]{style="font-size:1.2em;"}
+:::
+
+<img src="profile.jpg" alt="Noormah Rizwan" style="border-radius:0;" width="500"/>
+:::

@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Noormah Rizwan",
+    "section": "",
+    "text": "Welcome! I am an applied economist with research interests focusing on environmental, agricultural and behavioral economics.\nI have over 6 years of experience in conducting empirical research on climate adaptation, water scarcity, and economic development that aims to address policy-relevant issues.\nI am a Ph.D. candidate in Agricultural, Food and Resource Economics at Michigan State University. My expected graduation is in May 2026.\nPreviously, I have worked as a Research Analyst at the International Food Policy Research Institute. I have also interned at United Nations Economic and Social Commission for Asia Pacific.\nI have expertise in applied microeconometrics, spatial data analysis, and econometric modeling, including discrete choice and structural models. I also have significant experience in producing policy-relevant research, engaging stakeholders, and presenting findings to diverse audiences.\nContact: noormah.riz@gmail.com"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Andrew Chen",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nAgricultural adaptation to climate change\n\nIrrigation adoption and technology diffusion\n\nUrban water markets and welfare distribution\n\nApplied econometrics & spatial data analysis"
+  },
+  {
+    "objectID": "index.html#recent-work",
+    "href": "index.html#recent-work",
+    "title": "Andrew Chen",
+    "section": "Recent Work",
+    "text": "Recent Work\n\nCrop choice under climate variability — exploring how farmers in Serbia adapt through crop switching.\n\nIrrigation adoption — modeling the role of costs, aquifer depth, and canal distance.\n\nUrban water inequalities in Karachi — studying welfare impacts of informal tanker markets."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Andrew Chen",
+    "section": "Contact",
+    "text": "Contact\n📧 your_email@msu.edu\n🔗 Download my CV"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "with Jamshid Jalali, Molly Sears, Sean A. Woznicki, Tao Liu, Oskar Marko, and Mirjana Radulović\nUnder Review: Water Resources Research – Agrohydrological Processes Under Global Change\nAbstract:\nWarmer temperatures and erratic rainfall threaten global water availability. While irrigation adoption is a key risk-mitigation strategy, limited research has examined farmers’ likelihood of adopting irrigation under climate change, or the effects of large-scale adoption on future water availability. We take an integrated econometric–hydrologic modeling approach to study how short- and long-term climate fluctuations influence adoption decisions and their implications for water resources. First, we simulate future adoption under climate change using discrete choice methods. Next, we integrate results of when and where adoption is likely to occur into the Soil and Water Assessment Tool Plus (SWAT+) to assess impacts on water availability. By 2060, irrigation adoption is projected to reach 13% under a “dry” scenario and 5% under a “wet” scenario, up from 1.4% in the baseline. This expansion mitigates rainfall risk but deepens water balance deficits, especially in dry years.\n\n\n\n\n\n\n\nAbstract:\nAgricultural land allocation remains sensitive to climate change. As temperatures rise and precipitation patterns become more variable, farmers switch to crops better suited to the changing climate, with large market and welfare implications. Using field-level data, we estimate a yield–weather model to identify crop-specific thresholds for extreme weather and predict climate change impacts on yields. We then integrate results into a crop choice model to simulate how decisions differ under alternative climate scenarios. Farmers substitute away from profitable crops such as maize and soybean toward less profitable but more resilient wheat and sunflower.\n\n\n\n\nAbstract:\nUnreliable and inadequate public water supply has given rise to the “water mafia” — non-state actors that extract and sell water, often at high prices, to households disconnected from the piped network. The overall welfare impact of these actors remains uncertain due to limited microdata on household-level adaptation to piped water scarcity. Leveraging a novel household survey that I designed and implemented in Karachi, Pakistan, I estimate a discrete–continuous model of household water demand and simulate a counterfactual eliminating the water mafia. Preliminary results reveal substantial disparities in piped water access, forcing poorer households to rely on informal vendors and creating opportunities for exploitation.\n\n\n\n\n\n\n\nwith Sania Haider Shikoh, Stephen Davies, Muhammad Saad Moeen, Abdul Wajid Rana, and Zeeshan Haider\n\n\n\n\nwith Muhammad Saad Moeen, Zeeshan Haider, Sania Haider Shikoh, Amna Ejaz, Stephen Davies, and Abdul Wajid Rana\n\n\n\n\nwith Abdul Wajid Rana, Stephen Davies, Muhammad Saad Moeen, and Sania Haider Shikoh\n\n\n\n\nwith Daniel Jeongdae Lee\n\n\n\n\n\n\n\nMSU Water Alliance Feature, June 3, 2025"
+  },
+  {
+    "objectID": "research.html#current-projects",
+    "href": "research.html#current-projects",
+    "title": "Research",
+    "section": "",
+    "text": "Crop choice under climate variability — exploring how farmers adapt through crop switching in Serbia.\n\nIrrigation adoption — modeling the role of costs, aquifer depth, and canal distance in adoption decisions.\n\nUrban water inequalities in Karachi — studying welfare impacts of informal tanker markets."
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "Climate adaptation in agriculture\n\nIrrigation adoption and technology diffusion\n\nUrban water markets and welfare distribution\n\nApplied econometrics & spatial data analysis"
+  },
+  {
+    "objectID": "research.html#working-paper",
+    "href": "research.html#working-paper",
+    "title": "Research",
+    "section": "",
+    "text": "Irrigation Adoption in a changing Landscape: A Combined Economic and Hydrologic Approach."
+  },
+  {
+    "objectID": "research.html#ongoing-research",
+    "href": "research.html#ongoing-research",
+    "title": "Research",
+    "section": "",
+    "text": "Abstract:\nAgricultural land allocation remains sensitive to climate change. As temperatures rise and precipitation patterns become more variable, farmers switch to crops better suited to the changing climate, with large market and welfare implications. Using field-level data, we estimate a yield–weather model to identify crop-specific thresholds for extreme weather and predict climate change impacts on yields. We then integrate results into a crop choice model to simulate how decisions differ under alternative climate scenarios. Farmers substitute away from profitable crops such as maize and soybean toward less profitable but more resilient wheat and sunflower.\n\n\n\n\nAbstract:\nUnreliable and inadequate public water supply has given rise to the “water mafia” — non-state actors that extract and sell water, often at high prices, to households disconnected from the piped network. The overall welfare impact of these actors remains uncertain due to limited microdata on household-level adaptation to piped water scarcity. Leveraging a novel household survey that I designed and implemented in Karachi, Pakistan, I estimate a discrete–continuous model of household water demand and simulate a counterfactual eliminating the water mafia. Preliminary results reveal substantial disparities in piped water access, forcing poorer households to rely on informal vendors and creating opportunities for exploitation."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "with Jamshid Jalali, Molly Sears, Sean A. Woznicki, Tao Liu, Oskar Marko, and Mirjana Radulović\nUnder Review: Water Resources Research – Agrohydrological Processes Under Global Change\nAbstract:\nWarmer temperatures and erratic rainfall threaten global water availability. While irrigation adoption is a key risk-mitigation strategy, limited research has examined farmers’ likelihood of adopting irrigation under climate change, or the effects of large-scale adoption on future water availability. We take an integrated econometric–hydrologic modeling approach to study how short- and long-term climate fluctuations influence adoption decisions and their implications for water resources. First, we simulate future adoption under climate change using discrete choice methods. Next, we integrate results of when and where adoption is likely to occur into the Soil and Water Assessment Tool Plus (SWAT+) to assess impacts on water availability. By 2060, irrigation adoption is projected to reach 13% under a “dry” scenario and 5% under a “wet” scenario, up from 1.4% in the baseline. This expansion mitigates rainfall risk but deepens water balance deficits, especially in dry years."
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "",
+    "text": "with Sania Haider Shikoh, Stephen Davies, Muhammad Saad Moeen, Abdul Wajid Rana, and Zeeshan Haider\n\n\n\n\nwith Muhammad Saad Moeen, Zeeshan Haider, Sania Haider Shikoh, Amna Ejaz, Stephen Davies, and Abdul Wajid Rana\n\n\n\n\nwith Abdul Wajid Rana, Stephen Davies, Muhammad Saad Moeen, and Sania Haider Shikoh\n\n\n\n\nwith Daniel Jeongdae Lee"
+  },
+  {
+    "objectID": "research.html#media-spotlight",
+    "href": "research.html#media-spotlight",
+    "title": "Research",
+    "section": "",
+    "text": "MSU Water Alliance Feature, June 3, 2025"
+  },
+  {
+    "objectID": "index.html#noormah-rizwan",
+    "href": "index.html#noormah-rizwan",
+    "title": "Noormah Rizwan",
+    "section": "",
+    "text": "Welcome! I am an applied economist with research interests focusing on environmental, agricultural and behavioral economics.\nI have over 6 years of experience in conducting empirical research on climate adaptation, water scarcity, and economic development that aims to address policy-relevant issues.\nI am a Ph.D. candidate in Agricultural, Food and Resource Economics at Michigan State University. My expected graduation is in May 2026.\nPreviously, I have worked as a Research Analyst at the International Food Policy Research Institute. I have also interned at United Nations Economic and Social Commission for Asia Pacific.\nI have expertise in applied microeconometrics, spatial data analysis, and econometric modeling, including discrete choice and structural models. I also have significant experience in producing policy-relevant research, engaging stakeholders, and presenting findings to diverse audiences.\nContact: noormah.riz@gmail.com"
+  },
+  {
+    "objectID": "awards.html",
+    "href": "awards.html",
+    "title": "Awards",
+    "section": "",
+    "text": "Awards\n\n2024 – Allan Schmid Fellowship - Michigan State University ($8700)\n2024 – Short-term Research Grant - American Institute of Pakistan Studies ($3000)\n2016 - Fulbright Scholar\n2015 - Graduation with Distinction"
+  }
+]

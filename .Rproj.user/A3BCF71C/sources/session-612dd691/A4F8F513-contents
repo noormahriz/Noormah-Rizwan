@@ -1,0 +1,23 @@
+------------------------------------------------------------------------
+
+---
+title: ""
+format: html
+---
+
+------------------------------------------------------------------------
+
+::: {style="display: flex; align-items: center;"}
+::: {style="flex: 1; padding-right: 20px;"}
+# Noormah Rizwan
+
+Welcome! I am a Ph.D. candidate in Agricultural, Food and Resource Economics at Michigan State University.\
+My research focuses on adaptation to water scarcity, agricultural decision-making, and urban water markets in developing countries.
+:::
+
+::: {style="flex: 0 0 220px; text-align: right;"}
+<img src="profile.jpg" alt="Noormah Rizwan" width="200" style="border-radius:50%;"/>
+:::
+:::
+
+\

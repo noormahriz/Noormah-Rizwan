@@ -1,0 +1,68 @@
+---
+title: ""
+format: html
+toc: false
+---
+
+# Research
+
+## Working Papers
+
+### [Irrigation Adoption in a Changing Landscape: A Combined Economic and Hydrologic Approach](https://essopenarchive.org/users/942971/articles/1313108-irrigation-adoption-in-a-changing-landscape-a-combined-economic-and-hydrologic-approach?commit=62e21d14537fc57479aa9d0180e41009a3b2df99)
+
+*with Jamshid Jalali, Molly Sears, Sean A. Woznicki, Tao Liu, Oskar Marko, and Mirjana Radulović*
+
+*Under Review: Water Resources Research -- Agrohydrological Processes Under Global Change*
+
+**Abstract:**\
+Warmer temperatures and erratic rainfall threaten global water availability. While irrigation adoption is a key risk-mitigation strategy, limited research has examined farmers' likelihood of adopting irrigation under climate change, or the effects of large-scale adoption on future water availability. We take an integrated econometric--hydrologic modeling approach to study how short- and long-term climate fluctuations influence adoption decisions and their implications for water resources. First, we simulate future adoption under climate change using discrete choice methods. Next, we integrate results of when and where adoption is likely to occur into the Soil and Water Assessment Tool Plus (SWAT+) to assess impacts on water availability. By 2060, irrigation adoption is projected to reach 13% under a "dry" scenario and 5% under a "wet" scenario, up from 1.4% in the baseline. This expansion mitigates rainfall risk but deepens water balance deficits, especially in dry years.
+
+------------------------------------------------------------------------
+
+## Ongoing Research
+
+### Weathering the Change: Modeling Crop Choices in Response to Climate Variability
+
+**Abstract:**\
+Agricultural land allocation remains sensitive to climate change. As temperatures rise and precipitation patterns become more variable, farmers switch to crops better suited to the changing climate, with large market and welfare implications. Using field-level data, we estimate a yield--weather model to identify crop-specific thresholds for extreme weather and predict climate change impacts on yields. We then integrate results into a crop choice model to simulate how decisions differ under alternative climate scenarios. Farmers substitute away from profitable crops such as maize and soybean toward less profitable but more resilient wheat and sunflower.
+
+------------------------------------------------------------------------
+
+### Can "Mafia" be Good? Evidence from Karachi's Urban Water Market
+
+**Abstract:**\
+Unreliable and inadequate public water supply has given rise to the "water mafia" --- non-state actors that extract and sell water, often at high prices, to households disconnected from the piped network. The overall welfare impact of these actors remains uncertain due to limited microdata on household-level adaptation to piped water scarcity. Leveraging a novel household survey that I designed and implemented in Karachi, Pakistan, I estimate a discrete--continuous model of household water demand and simulate a counterfactual eliminating the water mafia. Preliminary results reveal substantial disparities in piped water access, forcing poorer households to rely on informal vendors and creating opportunities for exploitation.
+
+------------------------------------------------------------------------
+
+## Publications
+
+#### [Assessing the Economic Cost of Depleting Groundwater in Balochistan: A Social Accounting Matrix (SAM) Multiplier Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3822513)
+
+*with Sania Haider Shikoh, Stephen Davies, Muhammad Saad Moeen, Abdul Wajid Rana, and Zeeshan Haider*
+
+------------------------------------------------------------------------
+
+#### [Estimating the Economic Impacts of the First Wave of COVID-19 in Pakistan Using a SAM Multiplier Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3787013)
+
+*with Muhammad Saad Moeen, Zeeshan Haider, Sania Haider Shikoh, Amna Ejaz, Stephen Davies, and Abdul Wajid Rana*
+
+------------------------------------------------------------------------
+
+#### [Solarization of Electric Tube-wells for Agriculture in Balochistan: Economic and Environmental Viability](https://cgspace.cgiar.org/items/03ee14a4-03ac-4ff4-83e5-8c553c2ec6ff)
+
+*with Abdul Wajid Rana, Stephen Davies, Muhammad Saad Moeen, and Sania Haider Shikoh*
+
+------------------------------------------------------------------------
+
+#### [What Explains Divergent Investment Performances in Asia-Pacific?](https://repository.unescap.org/items/b84c7d4b-040f-4c19-a8ac-1c6f19cffc3c)
+
+*with Daniel Jeongdae Lee*
+
+------------------------------------------------------------------------
+
+## Media Spotlight
+
+#### [Who pays for water? MSU researchers examine Karachi's water mafia, local experts reflect on Michigan's water woes](https://water.msu.edu/feature/who-pays-water-msu-researchers-examine-karachis-water-mafia-local-experts-reflect-michigans)
+
+*MSU Water Alliance Feature, June 3, 2025*
