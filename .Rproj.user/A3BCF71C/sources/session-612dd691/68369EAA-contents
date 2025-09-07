@@ -12,9 +12,8 @@ website:
         text: Research
       - href: awards.qmd
         text: Awards
-      - text: "CV"
-        href: CV.pdf
-        target: _blank
+      - href: CV.pdf
+        text: CV
 format:
   html:
     theme: cosmo
