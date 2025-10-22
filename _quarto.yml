@@ -12,6 +12,8 @@ website:
         text: Research
       - href: CV.pdf
         text: CV
+      - href: JMP.pdf
+        text: Job Market Paper
 format:
   html:
     theme: cosmo
