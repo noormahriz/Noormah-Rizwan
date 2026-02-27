@@ -24,21 +24,7 @@ Warmer temperatures and erratic rainfall patterns are threatening global water a
 ### Weathering the Change: Modeling Crop Choices in Response to Climate Variability
 
 **Abstract:**\
-Agricultural land allocation remains sensitive to climate change. As temperatures rise and precipitation patterns become more variable, farmers switch to crops better suited to the changing climate. While this substitution has tremendous market and welfare implications, quantifying these impacts remains understudied, largely due to limited data on adaptive decisions and challenges in measuring profitability. Using field-level data on cropping practices, we investigate how crop choices alter under
-climate change. First, we estimate a yield-weather model to identify crop-specific thresholds for
-extreme weather and predict the impact of climate change on yields. Results are then integrated into
-a crop choice model to identify the key variables influencing farmers\' decisions and simulate how
-choices differ under various climate scenarios. We estimate crop-specific yield-weather models
-using for five crops: maize, soybean, sunflower, wheat, and rapeseed planted all across the region.
-These models reveal crop-specific thresholds for extreme weather conditions and allow us to predict
-yield changes under future climate scenarios. Integrating these yield model results into a panel
-conditional logit crop choice model; we find that farmers adjust their crop choices in response
-to evolving climatic and market conditions. Farmers switch away from profitable crops such as
-maize and soybean to less profitable but more resilient wheat and sunflower. Our innovative crop
-choice model incorporates climatic, hydrological, and economic factors, providing a more precise
-representation of farmers\' decision-making processes. The findings highlight significant changes
-in crop productivity and profitability under climate change, emphasizing the need for adaptive
-strategies.
+Agricultural land allocation remains sensitive to climate change. As temperatures rise and precipitation patterns become more variable, farmers switch to crops better suited to the changing climate. While this substitution has tremendous market and welfare implications, quantifying these impacts remains understudied, largely due to limited data on adaptive decisions and challenges in measuring profitability. Using field-level data on cropping practices, we investigate how crop choices alter under climate change. First, we estimate a yield-weather model to identify crop-specific thresholds for extreme weather and predict the impact of climate change on yields. Results are then integrated into a crop choice model to identify the key variables influencing farmers' decisions and simulate how choices differ under various climate scenarios. We estimate crop-specific yield-weather models using for five crops: maize, soybean, sunflower, wheat, and rapeseed planted all across the region. These models reveal crop-specific thresholds for extreme weather conditions and allow us to predict yield changes under future climate scenarios. Integrating these yield model results into a panel conditional logit crop choice model; we find that farmers adjust their crop choices in response to evolving climatic and market conditions. Farmers switch away from profitable crops such as maize and soybean to less profitable but more resilient wheat and sunflower. Our innovative crop choice model incorporates climatic, hydrological, and economic factors, providing a more precise representation of farmers' decision-making processes. The findings highlight significant changes in crop productivity and profitability under climate change, emphasizing the need for adaptive strategies.
 
 ------------------------------------------------------------------------
 

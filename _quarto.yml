@@ -14,6 +14,8 @@ website:
         text: CV
       - href: JMP.pdf
         text: Job Market Paper
+      - href: OtherResearch.pdf
+        text: Water Markets Paper
 format:
   html:
     theme: cosmo
